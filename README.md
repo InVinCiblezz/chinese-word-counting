@@ -19,4 +19,4 @@ Will generate two CSV files: **CWA.csv** and **CWAW.csv**.
 
 **CWA.csv** is the word counting result after [**Jieba**](https://github.com/fxsjy/jieba).
 
-**CWAW.csv** is the result of **CWA.csv** filtered by **wordList.txt**(you can insert or remove words any time).
+**CWAW.csv** is the result of **CWA.csv** filtered by **wordList.txt** (you can insert or remove words any time).

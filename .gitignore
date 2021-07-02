@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# generated files
+CWA.csv
+CWAW.csv
